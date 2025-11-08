@@ -1,5 +1,15 @@
 # 👋 Hi, I’m Mike
+---
 
+### 🧠 Tech Focus
+![Windows](https://img.shields.io/badge/OS-Windows-blue)
+![M365](https://img.shields.io/badge/Platform-Microsoft_365-blue)
+![Azure](https://img.shields.io/badge/Cloud-Azure-blue)
+![Python](https://img.shields.io/badge/Language-Python-blue)
+![PowerShell](https://img.shields.io/badge/Scripting-PowerShell-lightgrey)
+![KQL](https://img.shields.io/badge/Query-KQL-yellowgreen)
+
+---
 ## 🔧 IT Infrastructure & Cloud Security Professional
 
 Building toward Microsoft cloud security with a focus on endpoint management and security operations.  
