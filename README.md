@@ -10,28 +10,35 @@
 ![KQL](https://img.shields.io/badge/Query-KQL-yellowgreen)
 
 ---
+
 ## 🔧 IT Infrastructure & Cloud Security Professional
 
 Building toward Microsoft cloud security with a focus on endpoint management and security operations.  
-Currently pursuing Security+ and MD-102 while building daily automation skills in PowerShell and Python.
+Currently pursuing **CompTIA Security+** to strengthen foundational security principles before advancing to **MD-102: Microsoft Endpoint Administrator**.
+
+---
 
 ### 🎯 Current Focus
-- **Studying:** CompTIA Security+ (Exam: Feb 2026)  
+- **Studying:** Security+ (security controls, CIA triad, risk management fundamentals)  
+- **Next:** MD-102 — Microsoft Endpoint Administrator  
 - **Building:** PowerShell + Python automation for M365 and Azure  
-- **Practicing:** Endpoint management via Intune & Defender labs
+- **Practicing:** Endpoint management through Intune and Defender labs  
+
+---
 
 ### 📂 Active Projects
 - [`python-sysadmin-katas`](https://github.com/mikeyMike89/python-sysadmin-katas) — public automation practice repo  
 - `field-work-log` — documented real-world troubleshooting  
-- `md102-lab` — endpoint management & Intune lab (private)  
+- `cert-prep` — Security+ and MD-102 study tracking  
 - `security-automation-lab` — security ops automation (private)
+
+---
 
 ### 🛠️ Technologies
 **Current:** Windows Server | M365 | Active Directory | PowerShell  
-**Learning:** Azure | Intune | Defender for Endpoint | Python | KQL
+**Learning:** Azure | Intune | Defender for Endpoint | Python | KQL  
 
-📍 Orlando, FL | Open to Remote or Relocation  
-
+📍 Orlando, FL  |  Open to Remote or Relocation
 
 ---
-*Last updated: 2025-11-08*
+*Last updated: 2025-11-09*
