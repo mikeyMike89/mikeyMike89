@@ -31,6 +31,7 @@ Currently pursuing **CompTIA Security+** to strengthen foundational security pri
 - `field-work-log` — documented real-world troubleshooting  
 - `cert-prep` — Security+ and MD-102 study tracking  
 - `security-automation-lab` — security ops automation (private)
+- `powershell-skill-builder` — weekly PowerShell fundamentals practice
 
 ---
 
