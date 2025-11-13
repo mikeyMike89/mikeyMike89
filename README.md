@@ -42,4 +42,4 @@ Currently pursuing **CompTIA Security+** to strengthen foundational security pri
 📍 Orlando, FL  |  Open to Remote or Relocation
 
 ---
-*Last updated: 2025-11-09*
+*Last updated: 2025-11-12*
